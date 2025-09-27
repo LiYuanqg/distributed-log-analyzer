@@ -1,0 +1,15 @@
+[2025-09-27 10:00:00] INFO Node1 Storage service started
+[2025-09-27 10:01:23] ALARM Node3 Disk 3 failed
+[2025-09-27 10:02:10] WARN Node2 High latency detected
+[2025-09-27 10:03:45] INFO Node1 Heartbeat OK
+[2025-09-27 10:04:12] ALARM Node2 Network timeout
+[2025-09-27 10:05:30] WARN Node3 CPU usage high
+[2025-09-27 10:06:00] INFO Node2 Storage service started
+[2025-09-27 10:07:10] INFO Node3 Heartbeat OK
+[2025-09-27 10:08:55] ALARM Node1 Disk 1 failed
+[2025-09-27 10:10:00] WARN Node2 Memory usage high
+[2025-09-27 10:11:23] INFO Node1 Backup completed
+[2025-09-27 10:12:10] ALARM Node3 Network latency critical
+[2025-09-27 10:13:50] INFO Node2 Backup completed
+[2025-09-27 10:15:00] WARN Node1 CPU usage high
+[2025-09-27 10:16:25] INFO Node3 Storage service restarted
