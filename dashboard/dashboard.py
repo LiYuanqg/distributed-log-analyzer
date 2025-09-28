@@ -4,7 +4,7 @@ import streamlit as st
 # ---------------------------
 # Load CSV
 # ---------------------------
-DATA_FILE = "../data/parsed_logs.csv"
+DATA_FILE = "data/parsed_logs.csv"
 df = pd.read_csv(DATA_FILE)
 
 # ---------------------------
