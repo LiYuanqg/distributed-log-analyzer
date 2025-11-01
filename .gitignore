@@ -1,12 +1,12 @@
 # Ignore all files in the log directory and all its subdirectories
-log/**/*
+logs/**/*
 
 # Do not ignore the README.txt file (at any level)
-!log/**/README.txt
+!logs/**/README.txt
 
-
-!log/**/
 
 .vscode/*
 
 demo.*
+
+bin/*
